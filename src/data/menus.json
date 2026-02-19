@@ -1,0 +1,694 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Mercimek Çorbası", "Kuzu Tandır", "Tereyağlı Pirinç Pilavı", "Çoban Salata", "Güllaç"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Ezogelin Çorbası", "Peynirli Börek", "Cacık", "Sütlaç"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Menemen", "Beyaz Peynir", "Siyah Zeytin", "Tam Buğday Ekmeği", "Bal ve Kaymak", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Süzme Yoğurt", "Bal", "Ceviz", "Muz", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 2,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Yayla Çorbası", "Kuru Fasulye", "Pirinç Pilavı", "Turşu", "İrmik Helvası"]
+        },
+        "menu2": {
+          "name": "Pratik İftar",
+          "items": ["Hurma ve Su", "Domates Çorbası", "Lahmacun", "Mevsim Salata", "Ayran"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Rafadan Yumurta", "Kaşar Peyniri", "Yeşil Zeytin", "Simit", "Domates ve Salatalık", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Yulaf Ezmesi", "Süt", "Muz", "Hurma", "Ceviz"]
+        }
+      }
+    },
+    {
+      "day": 3,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Tarhana Çorbası", "Karnıyarık", "Bulgur Pilavı", "Çoban Salata", "Baklava"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Şehriye Çorbası", "Patatesli Börek", "Yoğurt", "Mevsim Meyve"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Sucuklu Yumurta", "Beyaz Peynir", "Siyah Zeytin", "Tam Buğday Ekmeği", "Domates", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Kefir", "Granola", "Çilek", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 4,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "İşkembe Çorbası", "Tas Kebabı", "Tereyağlı Pirinç Pilavı", "Kısır", "Kazandibi"]
+        },
+        "menu2": {
+          "name": "Pratik İftar",
+          "items": ["Hurma ve Su", "Mercimek Çorbası", "Pide (Kuşbaşı)", "Semizotu Salatası", "Ayran"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Kayganalı Yumurta", "Lor Peyniri", "Zeytin", "Peksimetli Ekmek", "Bal", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Yoğurt", "Fındık", "Kuru Kayısı", "Hurma", "Su"]
+        }
+      }
+    },
+    {
+      "day": 5,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Ezogelin Çorbası", "Etli Nohut", "Pirinç Pilavı", "Mevsim Salata", "Revani"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Domates Çorbası", "Ispanaklı Börek", "Cacık", "Komposto"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Sahanda Yumurta", "Tulum Peyniri", "Siyah Zeytin", "Simit", "Kaymak ve Bal", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Sütlaç", "Muz", "Ceviz", "Hurma", "Su"]
+        }
+      }
+    },
+    {
+      "day": 6,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Tavuk Suyu Çorbası", "Yaprak Sarma", "Bulgur Pilavı", "Çoban Salata", "Aşure"]
+        },
+        "menu2": {
+          "name": "Pratik İftar",
+          "items": ["Hurma ve Su", "Yayla Çorbası", "Kıymalı Pide", "Ayran", "Mevsim Meyve"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Omlet", "Ezine Peyniri", "Yeşil Zeytin", "Tam Buğday Ekmeği", "Reçel", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Ayran", "Beyaz Peynirli Tost", "Domates", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 7,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Mercimek Çorbası", "Mantı", "Sarımsak Yoğurt", "Mevsim Salata", "Güllaç"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Tarhana Çorbası", "Sigara Böreği", "Humus", "Yoğurt"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Pastırmalı Yumurta", "Kaşar Peyniri", "Zeytin", "Simit", "Tereyağı", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Muzlu Smoothie", "Yulaf", "Bal", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 8,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Şehriye Çorbası", "İzmir Köfte", "Pirinç Pilavı", "Çoban Salata", "Künefe"]
+        },
+        "menu2": {
+          "name": "Pratik İftar",
+          "items": ["Hurma ve Su", "Ezogelin Çorbası", "Etli Ekmek", "Mevsim Salata", "Ayran"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Menemen", "Beyaz Peynir", "Siyah Zeytin", "Tam Buğday Ekmeği", "Domates", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Yoğurt", "Granola", "Muz", "Hurma", "Ceviz"]
+        }
+      }
+    },
+    {
+      "day": 9,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Domates Çorbası", "Hünkâr Beğendi", "Bulgur Pilavı", "Turşu", "Trilece"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Tavuk Suyu Çorbası", "Su Böreği", "Cacık", "Komposto"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Rafadan Yumurta", "Van Otlu Peyniri", "Yeşil Zeytin", "Peksimetli Ekmek", "Kaymak", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Kefir", "Ceviz", "Kuru İncir", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 10,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Yayla Çorbası", "Etli Kuru Fasulye", "Tereyağlı Pirinç Pilavı", "Kısır", "Sütlaç"]
+        },
+        "menu2": {
+          "name": "Pratik İftar",
+          "items": ["Hurma ve Su", "Mercimek Çorbası", "Kaşarlı Tost", "Mevsim Salata", "Mevsim Meyve"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Sucuklu Yumurta", "Taze Kaşar", "Siyah Zeytin", "Simit", "Bal ve Tereyağı", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Sütlaç", "Muz", "Fındık", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 11,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Tarhana Çorbası", "Köfte", "Pirinç Pilavı", "Çoban Salata", "Baklava"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Şehriye Çorbası", "Peynirli Gözleme", "Yoğurt", "Ayran"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Kayganalı Yumurta", "Beyaz Peynir", "Yeşil Zeytin", "Tam Buğday Ekmeği", "Reçel", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Yoğurt", "Bal", "Ceviz", "Muz", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 12,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Ezogelin Çorbası", "Tavuk Sote", "Bulgur Pilavı", "Mevsim Salata", "Kazandibi"]
+        },
+        "menu2": {
+          "name": "Pratik İftar",
+          "items": ["Hurma ve Su", "Domates Çorbası", "Kıymalı Börek", "Cacık", "Komposto"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Sahanda Yumurta", "Lor Peyniri", "Siyah Zeytin", "Simit", "Kaymak ve Bal", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Ayran", "Peynirli Tost", "Salatalık", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 13,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Tavuk Suyu Çorbası", "Ali Nazik Kebabı", "Tereyağlı Pirinç Pilavı", "Çoban Salata", "Revani"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Yayla Çorbası", "Patatesli Tepsi Böreği", "Mevsim Salata", "Mevsim Meyve"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Omlet", "Tulum Peyniri", "Yeşil Zeytin", "Tam Buğday Ekmeği", "Tereyağı", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Yulaf Ezmesi", "Süt", "Bal", "Hurma", "Ceviz"]
+        }
+      }
+    },
+    {
+      "day": 14,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Mercimek Çorbası", "Etli Dolma (Biber)", "Pirinç Pilavı", "Turşu", "Güllaç"]
+        },
+        "menu2": {
+          "name": "Pratik İftar",
+          "items": ["Hurma ve Su", "Tarhana Çorbası", "Tantuni", "Mevsim Salata", "Ayran"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Pastırmalı Yumurta", "Ezine Peyniri", "Siyah Zeytin", "Simit", "Bal", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Süzme Yoğurt", "Granola", "Çilek", "Muz", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 15,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Şehriye Çorbası", "Kuzu İncik", "Tereyağlı Bulgur Pilavı", "Çoban Salata", "Aşure"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Ezogelin Çorbası", "Sigara Böreği", "Humus", "Yoğurt", "Komposto"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Menemen", "Kaşar Peyniri", "Yeşil Zeytin", "Tam Buğday Ekmeği", "Domates", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Kefir", "Fındık", "Kuru Kayısı", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 16,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Domates Çorbası", "Musakka", "Pirinç Pilavı", "Kısır", "Künefe"]
+        },
+        "menu2": {
+          "name": "Pratik İftar",
+          "items": ["Hurma ve Su", "Tavuk Suyu Çorbası", "Lahmacun", "Mevsim Salata", "Ayran"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Rafadan Yumurta", "Beyaz Peynir", "Siyah Zeytin", "Peksimetli Ekmek", "Kaymak ve Bal", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Yoğurt", "Ceviz", "Muz", "Hurma", "Su"]
+        }
+      }
+    },
+    {
+      "day": 17,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Yayla Çorbası", "Tavuk Kebabı", "Tereyağlı Pirinç Pilavı", "Mevsim Salata", "İrmik Helvası"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Mercimek Çorbası", "Peynirli Pide", "Cacık", "Mevsim Meyve"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Sucuklu Yumurta", "Van Otlu Peyniri", "Zeytin", "Simit", "Tereyağı", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Sütlaç", "Fındık", "Hurma", "Su"]
+        }
+      }
+    },
+    {
+      "day": 18,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Tarhana Çorbası", "Etli Bezelye", "Bulgur Pilavı", "Çoban Salata", "Trilece"]
+        },
+        "menu2": {
+          "name": "Pratik İftar",
+          "items": ["Hurma ve Su", "Şehriye Çorbası", "Kıymalı Pide", "Mevsim Salata", "Ayran"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Kayganalı Yumurta", "Tulum Peyniri", "Yeşil Zeytin", "Tam Buğday Ekmeği", "Reçel", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Ayran", "Peynirli Tost", "Domates", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 19,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Ezogelin Çorbası", "Fırında Tavuk", "Tereyağlı Pirinç Pilavı", "Turşu", "Baklava"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Domates Çorbası", "Su Böreği", "Yoğurt", "Komposto"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Sahanda Yumurta", "Ezine Peyniri", "Siyah Zeytin", "Simit", "Bal ve Kaymak", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Yulaf Ezmesi", "Süt", "Muz", "Hurma", "Ceviz"]
+        }
+      }
+    },
+    {
+      "day": 20,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Tavuk Suyu Çorbası", "Karnıyarık", "Bulgur Pilavı", "Mevsim Salata", "Güllaç"]
+        },
+        "menu2": {
+          "name": "Pratik İftar",
+          "items": ["Hurma ve Su", "Yayla Çorbası", "Ispanaklı Gözleme", "Cacık", "Mevsim Meyve"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Omlet", "Beyaz Peynir", "Yeşil Zeytin", "Tam Buğday Ekmeği", "Domates ve Salatalık", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Süzme Yoğurt", "Bal", "Ceviz", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 21,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Mercimek Çorbası", "Adana Kebab", "Tereyağlı Pirinç Pilavı", "Çoban Salata", "Sütlaç"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Tarhana Çorbası", "Patatesli Börek", "Yoğurt", "Ayran"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Pastırmalı Yumurta", "Kaşar Peyniri", "Siyah Zeytin", "Peksimetli Ekmek", "Tereyağı", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Kefir", "Granola", "Çilek", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 22,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Şehriye Çorbası", "Etli Kapuska", "Pirinç Pilavı", "Kısır", "Kazandibi"]
+        },
+        "menu2": {
+          "name": "Pratik İftar",
+          "items": ["Hurma ve Su", "Ezogelin Çorbası", "Etli Ekmek", "Mevsim Salata", "Komposto"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Menemen", "Lor Peyniri", "Yeşil Zeytin", "Simit", "Bal", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Yoğurt", "Fındık", "Kuru İncir", "Hurma", "Su"]
+        }
+      }
+    },
+    {
+      "day": 23,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Domates Çorbası", "Mantı", "Sarımsak Yoğurt", "Turşu", "Revani"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Tavuk Suyu Çorbası", "Sigara Böreği", "Humus", "Mevsim Meyve"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Rafadan Yumurta", "Tulum Peyniri", "Siyah Zeytin", "Tam Buğday Ekmeği", "Kaymak ve Bal", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Sütlaç", "Ceviz", "Muz", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 24,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Yayla Çorbası", "Tas Kebabı", "Tereyağlı Bulgur Pilavı", "Çoban Salata", "Aşure"]
+        },
+        "menu2": {
+          "name": "Pratik İftar",
+          "items": ["Hurma ve Su", "Mercimek Çorbası", "Kaşarlı Tost", "Cacık", "Ayran"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Sucuklu Yumurta", "Ezine Peyniri", "Yeşil Zeytin", "Simit", "Reçel", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Ayran", "Beyaz Peynirli Tost", "Salatalık", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 25,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Tarhana Çorbası", "Hünkâr Beğendi", "Pirinç Pilavı", "Mevsim Salata", "Künefe"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Şehriye Çorbası", "Peynirli Börek", "Yoğurt", "Komposto"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Kayganalı Yumurta", "Beyaz Peynir", "Siyah Zeytin", "Tam Buğday Ekmeği", "Domates", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Muzlu Smoothie", "Yulaf", "Bal", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 26,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Ezogelin Çorbası", "Kuzu Tandır", "Tereyağlı Pirinç Pilavı", "Turşu", "Baklava"]
+        },
+        "menu2": {
+          "name": "Pratik İftar",
+          "items": ["Hurma ve Su", "Domates Çorbası", "Kıymalı Pide", "Mevsim Salata", "Ayran"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Sahanda Yumurta", "Van Otlu Peyniri", "Yeşil Zeytin", "Peksimetli Ekmek", "Tereyağı", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Yoğurt", "Ceviz", "Kuru Kayısı", "Hurma", "Su"]
+        }
+      }
+    },
+    {
+      "day": 27,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Tavuk Suyu Çorbası", "Yaprak Sarma", "Bulgur Pilavı", "Kısır", "Güllaç"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Yayla Çorbası", "Ispanaklı Börek", "Cacık", "Mevsim Meyve"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Omlet", "Kaşar Peyniri", "Siyah Zeytin", "Simit", "Bal ve Kaymak", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Kefir", "Fındık", "Muz", "Hurma"]
+        }
+      }
+    },
+    {
+      "day": 28,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Mercimek Çorbası", "Köfte", "Tereyağlı Pirinç Pilavı", "Çoban Salata", "İrmik Helvası"]
+        },
+        "menu2": {
+          "name": "Pratik İftar",
+          "items": ["Hurma ve Su", "Tarhana Çorbası", "Lahmacun", "Yoğurt", "Ayran"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Pastırmalı Yumurta", "Beyaz Peynir", "Yeşil Zeytin", "Tam Buğday Ekmeği", "Reçel", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Süzme Yoğurt", "Granola", "Çilek", "Hurma", "Ceviz"]
+        }
+      }
+    },
+    {
+      "day": 29,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Şehriye Çorbası", "Ali Nazik Kebabı", "Bulgur Pilavı", "Mevsim Salata", "Trilece"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Ezogelin Çorbası", "Su Böreği", "Cacık", "Komposto"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Sucuklu Yumurta", "Lor Peyniri", "Siyah Zeytin", "Simit", "Kaymak", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Yoğurt", "Bal", "Fındık", "Hurma", "Su"]
+        }
+      }
+    },
+    {
+      "day": 30,
+      "iftar": {
+        "menu1": {
+          "name": "Geleneksel İftar",
+          "items": ["Hurma ve Su", "Domates Çorbası", "Kuzu İncik", "Tereyağlı Pirinç Pilavı", "Çoban Salata", "Baklava"]
+        },
+        "menu2": {
+          "name": "Hafif İftar",
+          "items": ["Hurma ve Su", "Mercimek Çorbası", "Peynirli Pide", "Mevsim Salata", "Güllaç"]
+        }
+      },
+      "sahur": {
+        "menu1": {
+          "name": "Doyurucu Sahur",
+          "items": ["Menemen", "Ezine Peyniri", "Yeşil Zeytin", "Tam Buğday Ekmeği", "Bal ve Tereyağı", "Çay"]
+        },
+        "menu2": {
+          "name": "Pratik Sahur",
+          "items": ["Sütlaç", "Ceviz", "Muz", "Hurma", "Su"]
+        }
+      }
+    }
+  ]
+}

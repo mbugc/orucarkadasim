@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #0f0f23;
+  --color-foreground: #e8e8f0;
+  --color-primary: #c9a84c;
+  --color-primary-foreground: #0f0f23;
+  --color-secondary: #1a3a5c;
+  --color-secondary-foreground: #e8e8f0;
+  --color-accent: #2d6a4f;
+  --color-accent-foreground: #e8e8f0;
+  --color-muted: #1e1e3a;
+  --color-muted-foreground: #9ca3af;
+  --color-card: #16163a;
+  --color-card-foreground: #e8e8f0;
+  --color-border: #2a2a5a;
+  --color-ring: #c9a84c;
+  --color-destructive: #ef4444;
+  --color-gold: #c9a84c;
+  --color-gold-light: #e0c068;
+  --color-night: #0a0a1a;
+  --color-night-light: #16163a;
+
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-arabic: "Amiri", "Traditional Arabic", serif;
+
+  --radius-sm: 0.375rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-arabic {
+  font-family: var(--font-arabic);
+}
+
+/* Custom scrollbar for the app */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 2px;
+}
+
+/* Countdown timer gradient */
+.countdown-gradient {
+  background: linear-gradient(135deg, var(--color-secondary), var(--color-background));
+}
+
+/* Card hover effect */
+.card-hover {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(201, 168, 76, 0.1);
+}
+
+/* Today highlight for imsakiye table */
+.today-row {
+  background: linear-gradient(90deg, rgba(201, 168, 76, 0.15), rgba(201, 168, 76, 0.05));
+  border-left: 3px solid var(--color-primary);
+}

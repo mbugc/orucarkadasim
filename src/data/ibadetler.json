@@ -1,0 +1,784 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "title": "Ramazan'a Adım: Teravih ve Kur'ân'a Başlangıç",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "Teravih Namazı (20 Rekât)",
+          "description": "Hanefî mezhebine göre teravih namazı 20 rekâttır. Yatsı namazından sonra 2 rekât 2 rekât kılınarak toplam 20 rekât eda edilir. Her 4 rekâtın ardından kısa bir mola verilir (terviha). Vitir namazı en son kılınır."
+        },
+        {
+          "type": "kuran",
+          "title": "1. Cüz - Fâtiha ve Bakara Sûresi Başlangıcı",
+          "description": "Bugün Kur'ân-ı Kerîm'in 1. cüzünü okuyarak hatim yolculuğuna başlayın. Fâtiha Sûresi ve Bakara Sûresi'nin ilk bölümünü içine alır. Her gün 1 cüz okuyarak Ramazan'da hatim yapmayı hedefleyin."
+        },
+        {
+          "type": "dua",
+          "title": "İftar Duası",
+          "description": "İftarda 'Allahümme leke sumtü ve bike amentü ve aleyke tevekkeltü ve alâ rızkike eftartü' duasını okuyun. İftar anında yapılan dualar kabul olunur."
+        },
+        {
+          "type": "zikir",
+          "title": "Ramazan'a Giriş Tesbihi",
+          "description": "Bugün 100 defa 'Sübhânallah', 100 defa 'Elhamdülillah', 100 defa 'Allâhu Ekber' zikrini çekin. Ramazan'ın bereketli atmosferine zikir ile girin."
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Sabır ve Şükür Günü",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "Teravih Namazında Huşû",
+          "description": "Bu gece teravih namazında huşû üzerine yoğunlaşın. Namazda okunan âyetlerin manasını düşünerek kılın. Secdelerde bol bol dua edin, çünkü secde kulun Allah'a en yakın olduğu andır."
+        },
+        {
+          "type": "kuran",
+          "title": "2. Cüz - Bakara Sûresi Devamı",
+          "description": "Bugün 2. cüzü okuyun. Bakara Sûresi'nin devamı olan bu bölümde kıblenin değişmesi, oruç âyetleri ve hac ile ilgili hükümler yer alır. Oruç âyetlerini özellikle tefekkür edin."
+        },
+        {
+          "type": "zikir",
+          "title": "İstiğfar Zikri",
+          "description": "Bugün 100 defa 'Estağfirullah el-azîm ellezî lâ ilâhe illâ hüvel hayyel kayyûme ve etûbü ileyh' istiğfarını okuyun. Ramazan, günahların bağışlanması için büyük bir fırsattır."
+        },
+        {
+          "type": "ahlak",
+          "title": "Sabır ve Güzel Ahlâk",
+          "description": "Oruçlu iken sabırlı olun, kötü söz söylemeyin. Hz. Peygamber (s.a.v.) buyurdu ki: 'Oruçlu birine biri sataşmak isterse, ben oruçluyum desin.' Bugün özellikle dilinizi korumaya özen gösterin."
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Sadaka ve Paylaşım",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "Kuşluk (Duhâ) Namazı",
+          "description": "Güneş doğduktan 45 dakika sonra ile öğle namazı arasında 2 ila 12 rekât kuşluk namazı kılın. Hanefî mezhebinde müstehaptır. Her rekâtında Fâtiha ve kısa bir sûre okuyun."
+        },
+        {
+          "type": "kuran",
+          "title": "3. Cüz - Bakara Sûresi Sonu ve Âl-i İmrân Başlangıcı",
+          "description": "Bugün 3. cüzü okuyun. Bakara Sûresi'nin son âyetleri olan Âmenerresûlü'yü özellikle ezberleyip her gece okuyun. Hz. Peygamber (s.a.v.) bu âyetlerin faziletini bildirmiştir."
+        },
+        {
+          "type": "sadaka",
+          "title": "Günlük Sadaka Verme",
+          "description": "Ramazan'da verilen sadakanın sevabı kat kat fazladır. Bugün muhtaç birine sadaka verin. Az da olsa her gün düzenli sadaka vermeyi alışkanlık hâline getirin. Gizli verilen sadaka Allah'ın gazabını söndürür."
+        },
+        {
+          "type": "dua",
+          "title": "Sahur Duası ve Niyet",
+          "description": "Sahurda 'Niyet ettim Allah rızası için yarın Ramazan-ı Şerîf orucunu tutmaya' diye niyet edin. Hanefî mezhebinde sahurda niyet etmek yeterlidir. Sahuru geciktirmek ve iftarı acele etmek sünnettir."
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Tefekkür ve İlim Günü",
+      "suggestions": [
+        {
+          "type": "kuran",
+          "title": "4. Cüz - Âl-i İmrân Sûresi Devamı",
+          "description": "Bugün 4. cüzü okuyun. Âl-i İmrân Sûresi'nde Uhud Savaşı, sabır ve Allah'a güven konuları işlenir. Bu âyetlerden sabır ve tevekkül derslerini çıkartın."
+        },
+        {
+          "type": "ilim",
+          "title": "Ramazan'ın Fazileti Hakkında Okuma",
+          "description": "Bugün Ramazan'ın fazileti hakkında bir hadîs-i şerîf derlemesi okuyun. 'Ramazan geldiğinde cennet kapıları açılır, cehennem kapıları kapanır ve şeytanlar zincirlenir' hadisini tefekkür edin."
+        },
+        {
+          "type": "namaz",
+          "title": "Namazları Cemaatle Kılma",
+          "description": "Beş vakit namazı cemaatle kılmaya özen gösterin. Cemaatle kılınan namaz, tek başına kılınan namazdan 27 derece daha faziletlidir. Ramazan'da camiye devam etmeyi alışkanlık hâline getirin."
+        },
+        {
+          "type": "zikir",
+          "title": "Salavât-ı Şerîfe",
+          "description": "Bugün 100 defa 'Allahümme salli alâ seyyidinâ Muhammedin ve alâ âli seyyidinâ Muhammed' salavât-ı şerîfesini okuyun. Peygamberimize salavât getirmek duaların kabulüne vesiledir."
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Gece İbadeti ve Secde",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "Teheccüd Namazına Başlangıç",
+          "description": "Sahura kalktığınızda teravih dışında teheccüd namazı kılmayı deneyin. Gece namazının en faziletlisi teheccüddür. Hanefî mezhebinde 2 ila 8 rekât arasında kılınabilir. Sahurdan önce 2 rekât ile başlayabilirsiniz."
+        },
+        {
+          "type": "kuran",
+          "title": "5. Cüz - Nisâ Sûresi",
+          "description": "Bugün 5. cüzü okuyun. Nisâ Sûresi'nde aile hukuku, kadın hakları, yetim hakları ve miras hükümleri yer alır. Bu âyetleri toplumsal sorumluluk bilinciyle okuyun."
+        },
+        {
+          "type": "dua",
+          "title": "Secde Duası",
+          "description": "Namazlarda secdeye vardığınızda şu duayı okuyun: 'Sübhâne Rabbiye'l-a'lâ' üç defa dedikten sonra 'Allahümme'ğfir lî zenbî küllehû dikkahû ve cillehû ve evvelehû ve âhirehû' diye dua edin."
+        },
+        {
+          "type": "ahlak",
+          "title": "Komşu Hakkı ve İkram",
+          "description": "Bugün bir komşunuza iftar yemeği gönderin veya iftara davet edin. Hz. Peygamber (s.a.v.) 'Komşunuz açken tok yatan bizden değildir' buyurmuştur. Komşu hakkı Ramazan'da daha da önem kazanır."
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Kur'ân'la Derin Bağ",
+      "suggestions": [
+        {
+          "type": "kuran",
+          "title": "6. Cüz - Nisâ ve Mâide Sûresi",
+          "description": "Bugün 6. cüzü okuyun. Nisâ Sûresi'nin sonu ve Mâide Sûresi'nin başlangıcını içerir. Mâide Sûresi'nde sofra, ahitler ve hükümler yer alır. Helâl ve haram konularını tefekkür edin."
+        },
+        {
+          "type": "ilim",
+          "title": "Kur'ân Tefsiri Okuma",
+          "description": "Bugün okuduğunuz cüzden bir bölümün tefsirini okuyun. Anlamını derinlemesine kavramaya çalışın. Ömer Nasuhî Bilmen veya Elmalılı Hamdi Yazır tefsirlerinden faydalanabilirsiniz."
+        },
+        {
+          "type": "zikir",
+          "title": "Tevhid Zikri",
+          "description": "Bugün 100 defa 'Lâ ilâhe illallahü vahdehû lâ şerîke leh, lehü'l-mülkü ve lehü'l-hamdü ve hüve alâ külli şey'in kadîr' okuyun. Bu zikrin fazileti hadislerde bildirilmiştir."
+        },
+        {
+          "type": "sadaka",
+          "title": "İlim Sadakası",
+          "description": "Bildiğiniz bir dua veya sûreyi başka birine öğretin. İlim öğretmek en faziletli sadakalardan biridir. Bir çocuğa Fâtiha Sûresi öğretmek bile büyük sevaptır."
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Haftanın Değerlendirmesi ve Şükür",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "Şükür Secdesi ve Teravih",
+          "description": "Bir haftayı oruçla tamamladığınız için şükür secdesi yapın. Teravih namazını bu gece daha uzun sûreleri okuyarak kılın. Hanefî mezhebinde teravihin her rekâtında en az üç âyet okumak müstehaptır."
+        },
+        {
+          "type": "kuran",
+          "title": "7. Cüz - Mâide ve En'âm Sûresi",
+          "description": "Bugün 7. cüzü okuyun. En'âm Sûresi tevhid inancını güçlü bir şekilde işler. Şirk ve tevhid konularını derinlemesine düşünün."
+        },
+        {
+          "type": "dua",
+          "title": "Cuma Günü Duaları",
+          "description": "Eğer bugün cuma ise, cuma gününün mübarek saatlerinde bol bol dua edin. İkindi ile akşam arası icabet saatidir. 'Allahümme innî es'elüke min fadlike' diye Allah'ın fazlından isteyin."
+        },
+        {
+          "type": "ahlak",
+          "title": "Affetme ve Barışma",
+          "description": "Bugün küs olduğunuz veya aranız bozuk biriyle barışma adımı atın. Ramazan barışma ve gönül alma ayıdır. Hz. Peygamber (s.a.v.) 'Müslümanın Müslümanı üç günden fazla terk etmesi helâl değildir' buyurmuştur."
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "title": "Tövbe ve İstiğfar",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "Tövbe Namazı",
+          "description": "Hanefî mezhebine göre tövbe namazı 2 rekâttır. Günahlarınızdan pişmanlık duyarak abdest alın, 2 rekât namaz kılın ve ardından samimi bir şekilde tövbe edin. Allah tövbeleri kabul edendir."
+        },
+        {
+          "type": "kuran",
+          "title": "8. Cüz - En'âm ve A'râf Sûresi",
+          "description": "Bugün 8. cüzü okuyun. A'râf Sûresi'nde Hz. Âdem'den itibaren peygamber kıssaları anlatılır. Geçmiş ümmetlerin ibretlerini okuyun."
+        },
+        {
+          "type": "zikir",
+          "title": "Seyyidü'l-İstiğfar",
+          "description": "Bugün sabah ve akşam Seyyidü'l-İstiğfar duasını okuyun: 'Allahümme ente Rabbî lâ ilâhe illâ ente halaktenî ve ene abdüke...' Bu istiğfarın fazileti büyüktür. Sabah okuyup akşama kadar vefat eden cennete girer."
+        },
+        {
+          "type": "ahlak",
+          "title": "Nefis Muhasebesi",
+          "description": "Bu gece yatmadan önce günün muhasebesini yapın. Hangi ibadetleri yaptınız, hangi günahlara düştünüz? Hz. Ömer (r.a.) 'Hesaba çekilmeden önce kendinizi hesaba çekin' buyurmuştur."
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "title": "Oruç Âdâbı ve Sabır",
+      "suggestions": [
+        {
+          "type": "kuran",
+          "title": "9. Cüz - A'râf ve Enfâl Sûresi",
+          "description": "Bugün 9. cüzü okuyun. Enfâl Sûresi Bedir Savaşı'nı ve müminlerin zaferini anlatır. Müminlerin birlik ve beraberliği üzerine tefekkür edin."
+        },
+        {
+          "type": "ilim",
+          "title": "Oruç Fıkhı Bilgisi",
+          "description": "Bugün Hanefî mezhebine göre orucu bozan ve bozmayan şeyleri öğrenin. Diş fırçalamak orucu bozmaz, ancak macun yutmamaya dikkat edilir. Göz damlası, kulak damlası Hanefî'de orucu bozmaz. Bu bilgileri pekiştirin."
+        },
+        {
+          "type": "zikir",
+          "title": "Hamd ve Şükür Tesbihi",
+          "description": "Bugün 100 defa 'Elhamdülillahi alâ külli hâl' (Her hâlde Allah'a hamd olsun) okuyun. Oruç tutabilme nimetine şükür edin. Sağlığı yerinde olup oruç tutabilenler ne büyük bir nimete sahiptir."
+        },
+        {
+          "type": "sadaka",
+          "title": "İftar Sofrasına Davet",
+          "description": "Bugün en az bir kişiyi iftar sofranıza davet edin veya bir oruçluya iftar ettirin. Hz. Peygamber (s.a.v.) buyurdu ki: 'Kim bir oruçluya iftar ettirirse, onun sevabı kadar sevap alır.'"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "title": "Ramazan'ın İlk Üçtebiri: Rahmet Günleri",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "Evvâbîn Namazı",
+          "description": "Akşam namazıyla yatsı namazı arasında 6 rekât Evvâbîn namazı kılın. 2 rekât 2 rekât kılınır. Hanefî mezhebinde nâfile olarak tavsiye edilir. Hz. Peygamber (s.a.v.) bu namazın faziletini bildirmiştir."
+        },
+        {
+          "type": "kuran",
+          "title": "10. Cüz - Enfâl ve Tevbe Sûresi",
+          "description": "Bugün 10. cüzü okuyun. Ramazan'ın ilk üçtebiri olan rahmet günleri tamamlanıyor. Tevbe Sûresi'nin başını okurken tövbe ve Allah'ın rahmeti üzerine düşünün."
+        },
+        {
+          "type": "dua",
+          "title": "Rahmet Duası",
+          "description": "Ramazan'ın ilk 10 günü rahmet günleridir. 'Allahümme'rhamni yâ Erhame'r-Râhimîn' (Ey merhamet edenlerin en merhametlisi, bana merhamet et) duasını bol bol okuyun."
+        },
+        {
+          "type": "ahlak",
+          "title": "Merhamet ve Şefkat",
+          "description": "Bugün etrafınızdaki insanlara karşı ekstra merhametli ve şefkatli olun. Hayvanlara, yaşlı insanlara, çocuklara merhamet gösterin. Rahmet günlerinin son gününde merhamet ahlâkını hayatınıza yerleştirin."
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "title": "Mağfiret Günlerine Giriş",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "Teravih'te Uzun Kıyam",
+          "description": "Ramazan'ın ikinci 10 günü mağfiret günleridir. Bu gece teravihi daha uzun kıyamla kılın. Hanefî mezhebinde teravihte Kur'ân hatmi yapılması müstehaptır. Kıyamda okunan âyetleri dinlerken huşû içinde olun."
+        },
+        {
+          "type": "kuran",
+          "title": "11. Cüz - Tevbe ve Yûnus Sûresi",
+          "description": "Bugün 11. cüzü okuyun. Yûnus Sûresi'nde Hz. Yûnus'un kıssası ve Allah'ın bağışlaması anlatılır. Mağfiret günlerine girerken bu kıssadan ibret alın."
+        },
+        {
+          "type": "zikir",
+          "title": "İstiğfar Virdi",
+          "description": "Mağfiret günlerinin ilki olan bugün 'Estağfirullahe'l-azîm ve etûbü ileyh' zikrini 200 defa okuyun. Günahlardan arınma niyetiyle samimi bir şekilde istiğfar edin."
+        },
+        {
+          "type": "dua",
+          "title": "Mağfiret Duası",
+          "description": "'Allahümme'ğfir lî zünûbî yâ Rabbe'l-âlemîn' (Allah'ım günahlarımı bağışla ey âlemlerin Rabbi) duasını iftardan önce ve teravihten sonra okuyun."
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "title": "Kur'ân ve Tefekkür",
+      "suggestions": [
+        {
+          "type": "kuran",
+          "title": "12. Cüz - Hûd ve Yûsuf Sûresi",
+          "description": "Bugün 12. cüzü okuyun. Yûsuf Sûresi 'kıssaların en güzeli' olarak nitelendirilir. Hz. Yûsuf'un sabrını, iffetini ve Allah'a tevekkülünü tefekkür edin."
+        },
+        {
+          "type": "ilim",
+          "title": "Peygamber Kıssaları",
+          "description": "Bugün Hz. Yûsuf (a.s.) kıssasını tefsir eşliğinde detaylı okuyun. Kardeşlerinin hasedinden Mısır'a sultanlığına uzanan bu kıssa sabır, affetme ve güzel ahlâk dersleriyle doludur."
+        },
+        {
+          "type": "zikir",
+          "title": "Tevekkül Zikri",
+          "description": "'Hasbünallahu ve ni'mel vekîl' (Allah bize yeter, O ne güzel vekildir) zikrini bugün 100 defa okuyun. Hz. Yûsuf'un kuyuya atıldığında bile tevekkülünü hatırlayın."
+        },
+        {
+          "type": "sadaka",
+          "title": "Muhtaçlara Yardım",
+          "description": "Bugün çevrenizde muhtaç olan birine ulaşın. Giyecek, yiyecek veya maddî yardımda bulunun. Ramazan'da yapılan hayır işlerinin sevabı kat kat fazladır."
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "title": "Namaz Kusuru ve Kaza",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "Kaza Namazı Hatırlatması",
+          "description": "Hanefî mezhebinde geçmiş kaza namazları varsa bunları kılmak farzdır. Ramazan fırsatını değerlendirin ve her gün en az 1 vakit kaza namazı kılın. Kaza namazı farz olduğu için nâfile namazlardan önce gelir."
+        },
+        {
+          "type": "kuran",
+          "title": "13. Cüz - Ra'd, İbrâhîm ve Hicr Sûresi",
+          "description": "Bugün 13. cüzü okuyun. İbrâhîm Sûresi'nde Hz. İbrâhîm'in duası yer alır: 'Rabbim, beni ve soyumdan gelecekleri namazı dosdoğru kılanlardan eyle.' Bu duayı siz de okuyun."
+        },
+        {
+          "type": "dua",
+          "title": "Hz. İbrâhîm'in Duası",
+          "description": "'Rabbi'c'alnî mukîme's-salâti ve min zürriyyetî Rabbenâ ve tekabbel duâ' (Rabbim! Beni ve soyumu namazı dosdoğru kılanlardan eyle. Rabbimiz, duamı kabul et) duasını bol bol okuyun."
+        },
+        {
+          "type": "ahlak",
+          "title": "Namaz Bilinci",
+          "description": "Bugün namazlarınızı vaktinde ve ta'dîl-i erkâna uygun kılın. Her rükû ve secdeyi acele etmeden, tesbihleri tam söyleyerek eda edin. Namaz müminin miracıdır."
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "title": "Ramazan'ın Yarısında Muhasebe",
+      "suggestions": [
+        {
+          "type": "kuran",
+          "title": "14. Cüz - Nahl ve İsrâ Sûresi",
+          "description": "Bugün 14. cüzü okuyun. Ramazan'ın yarısına geldiniz, hatimde de yarısına yaklaşıyorsunuz. Nahl Sûresi'ndeki nimet âyetlerini okuyarak Allah'ın nimetlerine şükür edin."
+        },
+        {
+          "type": "ilim",
+          "title": "Yarı Yol Değerlendirmesi",
+          "description": "Ramazan'ın yarısını geride bıraktınız. İlk 14 günde neler kazandınız? İbadetlerinizi gözden geçirin. Kalan 16 günü daha verimli geçirmek için plan yapın. Eksiklerinizi telafi etmek için hâlâ vakit var."
+        },
+        {
+          "type": "zikir",
+          "title": "Sübhânallah Tesbihi",
+          "description": "Bugün her namazın ardından 33 Sübhânallah, 33 Elhamdülillah, 33 Allâhu Ekber okuyun ve 'Lâ ilâhe illallahu vahdehû lâ şerîke leh' diyerek 100'e tamamlayın. Bu, namazlardan sonraki en faziletli zikirdir."
+        },
+        {
+          "type": "sadaka",
+          "title": "Zekât Hesabı",
+          "description": "Ramazan'ın yarısında zekât hesabınızı yapın. Hanefî mezhebinde zekât, nisab miktarına ulaşan ve üzerinden bir yıl geçen mala farzdır. Ramazan'da zekât vermek daha faziletlidir. Hesaplamanızı bugünden başlatın."
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "title": "Berât Kandili ve Dua",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "Gece Namazı",
+          "description": "Bu gece nâfile namaz kılmayı artırın. Sahurdan önce en az 4 rekât teheccüd kılın. Gece namazında 'Rabbi innî zalemtü nefsî fağfirlî' (Rabbim, nefsime zulmettim, beni bağışla) diye dua edin."
+        },
+        {
+          "type": "kuran",
+          "title": "15. Cüz - İsrâ ve Kehf Sûresi",
+          "description": "Bugün 15. cüzü okuyun. Kehf Sûresi'nin başlangıcı bu cüzdedir. Kehf Sûresi'nin ilk 10 âyetini ezberleyenin Deccal fitnesinden korunacağı bildirilmiştir."
+        },
+        {
+          "type": "dua",
+          "title": "Kapsamlı Dua",
+          "description": "Bugün hem kendiniz hem de tüm ümmet için dua edin. Hastalar, mazlumlar, yoksullar, ilim talebeleri ve tüm Müslümanlar için hayır duaları yapın. Oruçlu kişinin duası reddolunmaz."
+        },
+        {
+          "type": "zikir",
+          "title": "Lâ Havle Velâ Kuvvete Zikri",
+          "description": "'Lâ havle velâ kuvvete illâ billâhi'l-aliyyi'l-azîm' (Güç ve kuvvet ancak yüce Allah'tandır) zikrini bugün 100 defa okuyun. Bu zikir cennet hazinelerinden bir hazinedir."
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "title": "Kehf Sûresi ve Hikmetler",
+      "suggestions": [
+        {
+          "type": "kuran",
+          "title": "16. Cüz - Kehf ve Meryem Sûresi",
+          "description": "Bugün 16. cüzü okuyun. Kehf Sûresi'ndeki Ashâb-ı Kehf, Hz. Mûsâ-Hızır kıssası, Zülkarneyn kıssaları ve Meryem Sûresi'ndeki Hz. Îsâ'nın doğumu üzerine tefekkür edin."
+        },
+        {
+          "type": "ilim",
+          "title": "Kehf Sûresi Tefsirleri",
+          "description": "Kehf Sûresi'ndeki dört büyük kıssayı (Ashâb-ı Kehf, iki bahçe sahibi, Mûsâ-Hızır, Zülkarneyn) inceleyerek her birinden çıkarılacak dersleri öğrenin. Her kıssa farklı bir fitneye karşı ders verir."
+        },
+        {
+          "type": "namaz",
+          "title": "Teravih Sonrası Nâfile",
+          "description": "Teravih namazından sonra 2 rekât nâfile namaz kılın. Bu namazı kısa sûrelerle kılabilirsiniz. Gece namazlarını artırmak Ramazan'ın bereketini arttırır."
+        },
+        {
+          "type": "ahlak",
+          "title": "Tevâzu ve Alçak Gönüllülük",
+          "description": "Kehf Sûresi'ndeki bahçe sahibinin kibirle helâk olduğunu hatırlayın. Bugün tevâzu ile hareket edin. İbadetlerinizle böbürlenmeyin, ibadetlerinizin kabulü için dua edin."
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "title": "Bedir Zaferi'nin Yıl Dönümü",
+      "suggestions": [
+        {
+          "type": "ilim",
+          "title": "Bedir Savaşı'nı Anma",
+          "description": "Ramazan'ın 17. günü Bedir Savaşı'nın yıl dönümüdür. 313 sahâbenin 1000 kişilik orduyu yenmesi, Allah'a tevekkülün en güzel örneğidir. Bu günü Bedir sahâbeleri için dua ederek geçirin."
+        },
+        {
+          "type": "kuran",
+          "title": "17. Cüz - Enbiyâ ve Hac Sûresi",
+          "description": "Bugün 17. cüzü okuyun. Enbiyâ Sûresi'nde pek çok peygamberin kıssası özet olarak anlatılır. Her peygamberin sabır ve mücadelesinden ilham alın."
+        },
+        {
+          "type": "dua",
+          "title": "Zafer ve Yardım Duası",
+          "description": "'Allahümme'nsurnâ ale'l-kavmi'l-kâfirîn' (Allah'ım bize inkârcılara karşı yardım et) duasını ve tüm mazlum Müslümanlar için yardım duası yapın. Bedir gibi yardımın Allah'tan geleceğine iman edin."
+        },
+        {
+          "type": "namaz",
+          "title": "Şükür Namazı",
+          "description": "Bedir zaferinin yıl dönümünde 2 rekât şükür namazı kılın. İslâm'ın bugünlere ulaşması için Allah'a hamd edin. Hanefî mezhebinde şükür namazı kılınabilir."
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "title": "Sabır ve Dayanıklılık",
+      "suggestions": [
+        {
+          "type": "kuran",
+          "title": "18. Cüz - Mü'minûn ve Nûr Sûresi",
+          "description": "Bugün 18. cüzü okuyun. Mü'minûn Sûresi müminlerin özelliklerini sayar: namazda huşû, boş şeylerden kaçınma, zekât verme. Bu özellikleri kendinizde kontrol edin."
+        },
+        {
+          "type": "zikir",
+          "title": "Sabır Zikri",
+          "description": "'Allahümme'sbirnî ve sabbirnî' (Allah'ım bana sabır ver ve beni sabırlı kılanlardan eyle) duasını bugün sık sık tekrarlayın. Oruçta yorulduğunuzda bu zikir sizi güçlendirecektir."
+        },
+        {
+          "type": "sadaka",
+          "title": "Zaman Sadakası",
+          "description": "Bugün vaktinizden sadaka verin. Bir yaşlıya yardım edin, bir çocuğa ders verin, bir hastaya ziyarette bulunun. Zaman en değerli sermayemizdir ve onu Allah yolunda harcamak büyük sevaptır."
+        },
+        {
+          "type": "namaz",
+          "title": "Namazları İlk Vaktinde Kılma",
+          "description": "Hz. Peygamber'e 'En faziletli amel nedir?' diye sorulunca 'Vaktinde kılınan namazdır' buyurmuştur. Bugün tüm namazları ezan okunur okunmaz hemen kılın."
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "title": "Zekât ve İnfak",
+      "suggestions": [
+        {
+          "type": "sadaka",
+          "title": "Zekât Vermek",
+          "description": "Zekât hesabınızı tamamlayın ve bugün zekâtınızı verin. Hanefî mezhebinde zekât altın, gümüş, ticaret malı, nakit para ve hayvanlara farzdır. Nisab miktarı 80.18 gram altın veya karşılığı nakit paradır. Zekât en yakın akrabalardan başlanarak verilir."
+        },
+        {
+          "type": "kuran",
+          "title": "19. Cüz - Furkân ve Şuarâ Sûresi",
+          "description": "Bugün 19. cüzü okuyun. Furkân Sûresi'nde 'Rahmân'ın kulları' âyetleri yer alır: yeryüzünde vakarla yürürler, cahillere selâm derler, geceyi secde ve kıyamla geçirirler."
+        },
+        {
+          "type": "ilim",
+          "title": "İnfak Ahlâkı",
+          "description": "Kur'ân'da infak (Allah yolunda harcama) âyetlerini araştırın. 'Sevdiğiniz şeylerden infak etmedikçe iyiliğe erişemezsiniz' (Âl-i İmrân, 92) âyetini tefekkür edin. Mal biriktirmek değil, paylaşma esas olmalıdır."
+        },
+        {
+          "type": "dua",
+          "title": "Bereket Duası",
+          "description": "'Allahümme bârik lenâ fîmâ razaktenâ ve kınâ azâbe'n-nâr' (Allah'ım bize verdiklerini bereketlendir ve bizi ateş azabından koru) duasını iftar sofrasında okuyun."
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "title": "Son 10 Güne Hazırlık",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "İbadeti Yoğunlaştırma",
+          "description": "Yarın itibarıyla Ramazan'ın son 10 günü başlayacak. Hz. Peygamber (s.a.v.) son 10 günde ibadetini yoğunlaştırır, geceleri ihya eder ve ailesini de ibadete kaldırırdı. Bu gece kendinizi hazırlayın."
+        },
+        {
+          "type": "kuran",
+          "title": "20. Cüz - Neml ve Kasas Sûresi",
+          "description": "Bugün 20. cüzü okuyun. Kasas Sûresi'nde Hz. Mûsâ'nın detaylı hayat hikâyesi anlatılır. Allah'ın planına tevekkülü ve ilâhî kaderin hikmetini düşünün."
+        },
+        {
+          "type": "zikir",
+          "title": "Mağfiret Günlerinin Son Zikri",
+          "description": "Ramazan'ın ikinci 10 günü (mağfiret günleri) sona eriyor. 'Allahümme'ğfirlî ve li-vâlideyye ve li'l-mü'minîne yevme yekûmü'l-hisâb' duasını okuyarak hem kendiniz hem de ebeveynleriniz için mağfiret dileyin."
+        },
+        {
+          "type": "ahlak",
+          "title": "Son 10 Gün Planı",
+          "description": "Son 10 gün için detaylı bir ibadet planı yapın. Teheccüd, hatim, itikâf, sadaka ve dua programınızı belirleyin. Gereksiz iş ve meşguliyetleri azaltın, dünyevî işlerden mümkün olduğu kadar uzaklaşın."
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "title": "Son 10 Gün: Kadir Gecesi'ni Aramak",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "Teheccüd Namazını Artırma",
+          "description": "Son 10 gün başladı. Artık her gece teheccüd namazı kılın. Sahurdan en az 30 dakika önce kalkarak 4-8 rekât teheccüd namazı kılın. Hanefî mezhebinde teheccüd en az 2 en fazla 8 rekâttır. Bu gecelerde Kadir Gecesi aranır."
+        },
+        {
+          "type": "kuran",
+          "title": "21. Cüz - Ankebût ve Rûm Sûresi",
+          "description": "Bugün 21. cüzü okuyun. Ankebût Sûresi'nde imtihan, Rûm Sûresi'nde Allah'ın âyetleri anlatılır. Son 10 günde Kur'ân okuma hızınızı artırın. Hatmi Ramazan bitmeden tamamlayın."
+        },
+        {
+          "type": "dua",
+          "title": "Kadir Gecesi Duası",
+          "description": "Hz. Âişe (r.a.) Peygamberimize 'Kadir Gecesi'ni bilirsem ne dua edeyim?' diye sordu. Rasûlullah (s.a.v.): 'Allahümme inneke afüvvün tühibbü'l-afve fa'fü annî' (Allah'ım, Sen affedicisin, affı seversin, beni affet) de' buyurdu. Bu duayı her gece okuyun."
+        },
+        {
+          "type": "zikir",
+          "title": "Gece Zikri",
+          "description": "Son 10 gecenin her birinde 1000 defa 'Lâ ilâhe illallah' zikrini çekin. Gecenin son üçtebiri en faziletli vakittir. Allah Teâlâ bu vakitte dünya semasına iner ve 'Dua eden yok mu, duasını kabul edeyim' buyurur."
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "title": "İtikâf ve Dünyadan Uzaklaşmak",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "İtikâf Niyeti",
+          "description": "Hanefî mezhebinde son 10 günde itikâf yapmak sünnet-i müekkededir. İmkân varsa camide itikâfa girin. İtikâfa giremiyorsanız bile her gün en az bir vakit namazdan sonra camide kalarak nâfile ibadet yapın."
+        },
+        {
+          "type": "kuran",
+          "title": "22. Cüz - Ahzâb ve Sebe Sûresi",
+          "description": "Bugün 22. cüzü okuyun. Ahzâb Sûresi'nde Hz. Peygamber'in aile hayatı ve Hendek Savaşı anlatılır. Peygamberimizin Ramazan'daki ibadet hayatını düşünün."
+        },
+        {
+          "type": "zikir",
+          "title": "Salavât-ı Şerîfe",
+          "description": "Ahzâb Sûresi'nde 'Allah ve melekleri Peygamber'e salât ederler' âyetini okuyun ve bugün 500 defa salavât getirin. Cumayla denk gelirse salavâtın fazileti daha da artar."
+        },
+        {
+          "type": "ahlak",
+          "title": "Dünyevî Meşguliyetleri Azaltma",
+          "description": "Son 10 günde sosyal medya, gereksiz konuşmalar ve dünyevî meşguliyetleri minimuma indirin. Vaktinizi namaz, Kur'ân, zikir ve dua ile geçirin. Bu günler yılın en değerli günleridir."
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "title": "Kadir Gecesi İhtimali: Tek Geceler",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "23. Gece Özel İbadeti",
+          "description": "Ramazan'ın 23. gecesi Kadir Gecesi olma ihtimali yüksek olan tek gecelerdendir. Bu gece özel olarak uzun uzun namaz kılın. Teheccüdü 8 rekât kılın, her rekâtta uzun sûreler okuyun. Vitir namazını kunût duasıyla kılın."
+        },
+        {
+          "type": "kuran",
+          "title": "23. Cüz - Yâsîn ve Sâffât Sûresi",
+          "description": "Bugün 23. cüzü okuyun. Yâsîn Sûresi Kur'ân'ın kalbi olarak nitelendirilmiştir. Bugün Yâsîn Sûresi'ni ayrıca müstakil olarak da okuyun. Ölülerin ruhuna, hastaların şifasına vesile olur."
+        },
+        {
+          "type": "dua",
+          "title": "Kapsamlı Gece Duası",
+          "description": "Bu gece uzun uzun dua edin. Tüm ihtiyaçlarınızı Allah'a arz edin. Ahiret için, aileniz için, ümmet için, mazlumlar için dua edin. Secde hâlinde, kıyamda, her hâlde dua edin. Kadir Gecesi'ne denk gelebilir."
+        },
+        {
+          "type": "zikir",
+          "title": "Kadir Gecesi Zikir Programı",
+          "description": "Bu gece 100 istiğfar, 100 salavât, 100 tesbih (Sübhânallah), 100 tahmîd (Elhamdülillah), 100 tekbir (Allâhu Ekber) ve 100 tehlîl (Lâ ilâhe illallah) okuyun. Geceyi ihya edin."
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "title": "Kulluk ve Tevâzu",
+      "suggestions": [
+        {
+          "type": "kuran",
+          "title": "24. Cüz - Zümer ve Mü'min Sûresi",
+          "description": "Bugün 24. cüzü okuyun. Zümer Sûresi'ndeki 'De ki: Ey nefislerine karşı aşırı giden kullarım! Allah'ın rahmetinden ümit kesmeyin' (53. âyet) âyetini tefekkür edin. Allah'ın rahmeti sınırsızdır."
+        },
+        {
+          "type": "namaz",
+          "title": "Uzun Secdeler",
+          "description": "Bugün namazlarınızda secdeleri uzatın. Secdede bol bol dua edin. Hanefî mezhebinde secdede hem tesbih hem de dua yapmak caizdir. 'Allahümme'ğfir lî verhamnî vehdinî verzuknî' diye dua edin."
+        },
+        {
+          "type": "sadaka",
+          "title": "Gizli Sadaka",
+          "description": "Bugün kimsenin bilmediği bir şekilde gizli sadaka verin. Sol elinizin verdiğini sağ eliniz bilmesin. Gizli sadaka Allah'ın gazabını söndürür ve kötü ölümü önler."
+        },
+        {
+          "type": "ahlak",
+          "title": "Kibir ve Gösterişten Kaçınma",
+          "description": "İbadetlerinizi başkalarının görmesi için değil, sadece Allah için yapın. Riya (gösteriş) amelleri boşa çıkarır. Namazlarınızı, oruçlarınızı ve sadakalarınızı sırf Allah rızası için yapın."
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "title": "Kadir Gecesi İhtimali: Yoğun İbadet",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "25. Gece İhyası",
+          "description": "25. gece Kadir Gecesi olma ihtimali en yüksek gecelerden biridir. Bu geceyi tamamen ibadetle geçirmeye çalışın. Teravih, teheccüd ve nâfile namazlarla geceyi ihya edin. Uyumadan sabaha kadar ibadet etmeye gayret gösterin."
+        },
+        {
+          "type": "kuran",
+          "title": "25. Cüz - Fussılet ve Şûrâ Sûresi",
+          "description": "Bugün 25. cüzü okuyun ve ayrıca Kadir Sûresi'ni 7 defa okuyun. Kadir Sûresi'nin meâli üzerine düşünün: 'Kadir gecesi bin aydan hayırlıdır.' Bin ay yaklaşık 83 yıldır. Bir gecelik ibadet 83 yıllık ibadetten daha hayırlı olabilir."
+        },
+        {
+          "type": "dua",
+          "title": "Tüm Gece Boyunca Dua",
+          "description": "'Allahümme inneke afüvvün kerîmün tühibbü'l-afve fa'fü annî' duasını bu gece sürekli tekrarlayın. Tüm sevdiklerinizin, vefat etmiş yakınlarınızın, tüm ümmetin için dua edin. Gözlerinizden yaş gelene kadar yakarın."
+        },
+        {
+          "type": "zikir",
+          "title": "Bütün Gece Zikir",
+          "description": "Bu geceyi farklı zikirlerle doldurun: İstiğfar, salavât, tesbih, tehlîl, tekbir ve Esmâ-ül Hüsnâ okuyun. Allah'ın 99 ismini tek tek okuyarak her ismin manasını düşünün."
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "title": "Ramazan'ın Son Günlerine Değer Vermek",
+      "suggestions": [
+        {
+          "type": "kuran",
+          "title": "26. Cüz - Ahkâf ve Muhammed Sûresi",
+          "description": "Bugün 26. cüzü okuyun. Muhammed Sûresi'nde cihad, sabır ve Allah yolunda çalışma konuları yer alır. Nefisle cihad olan orucun son günlerinde azminizi koruyun."
+        },
+        {
+          "type": "sadaka",
+          "title": "Fitre Sadakası Hatırlatması",
+          "description": "Ramazan bitmeden fitre sadakanızı verin. Hanefî mezhebinde fitre vaciptir ve bayram namazı kılınmadan önce verilmelidir. Ailedeki her birey için fitre vermek gerekir. Bugünden hesaplayıp hazırlayın."
+        },
+        {
+          "type": "namaz",
+          "title": "Gece Namazında Israr",
+          "description": "Son geceler hızla geçiyor. Her geceyi sanki Kadir Gecesi'ymiş gibi değerlendirin. Teheccüd namazınızı bırakmayın. Teravihi huşû ile kılın. Her rekât bir nimet olarak görün."
+        },
+        {
+          "type": "dua",
+          "title": "Ramazan'ın Kabulü İçin Dua",
+          "description": "'Allahümme tekabbel minnâ sıyâmenâ ve kıyâmenâ ve rukû'anâ ve sücûdenâ' (Allah'ım orucumuzu, kıyamımızı, rükûmuzu ve secdelerimizi kabul et) diye dua edin. İbadetlerin kabulü için yakarış çok önemlidir."
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "title": "Kadir Gecesi: Bin Aydan Hayırlı Gece",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "Kadir Gecesi Özel Namaz Programı",
+          "description": "27. gece geleneksel olarak Kadir Gecesi kabul edilir. Bu geceyi tamamen ibadetle ihya edin. Yatsı ve teravih namazından sonra en az 12 rekât nâfile namaz kılın. Her rekâtta Fâtiha'dan sonra İhlâs Sûresi okuyun. Teheccüd vaktinde 8 rekât daha kılın. Vitir namazını uzun kunût duasıyla kılın."
+        },
+        {
+          "type": "kuran",
+          "title": "27. Cüz ve Özel Sûreler",
+          "description": "Bugün 27. cüzü okuyun. Ayrıca Kadir Sûresi'ni, Yâsîn Sûresi'ni, Mülk Sûresi'ni, Duhân Sûresi'ni ve Vâkıa Sûresi'ni okuyun. Kur'ân ile geçirin bu mübarek geceyi. Mümkünse hatminizi bu gece tamamlayın."
+        },
+        {
+          "type": "dua",
+          "title": "Kadir Gecesi Husûsî Duaları",
+          "description": "Bu gece tüm samimiyetinizle dua edin. 'Allahümme inneke afüvvün tühibbü'l-afve fa'fü annî' duasını sürekli okuyun. Ahiretiniz için, aileniz için, ümmeti Muhammed için, zulüm altındaki Müslümanlar için, insanlığın hidayeti için dua edin. Bu gecenin kadri bin aydan üstündür."
+        },
+        {
+          "type": "zikir",
+          "title": "Bin Aylık Zikir Gecesi",
+          "description": "Bu gece mümkün olduğunca çok zikir çekin. 1000 Lâ ilâhe illallah, 1000 Sübhânallah, 1000 Salavât-ı Şerîfe, 1000 İstiğfar hedefleyin. Uyumadan, yorulmadan, gevşeklik göstermeden geceyi ihya edin. Melekler bu gece yeryüzüne iner."
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "title": "Ramazan'ın Son Nefesleri",
+      "suggestions": [
+        {
+          "type": "kuran",
+          "title": "28. Cüz - Mücâdele ve Haşr Sûresi",
+          "description": "Bugün 28. cüzü okuyun. Haşr Sûresi'nin son 3 âyetinde Allah'ın güzel isimleri sayılır. Bu âyetleri ezberleyin ve her gün okuyun. Sabah bu âyetleri okuyana 70.000 melek istiğfar eder."
+        },
+        {
+          "type": "namaz",
+          "title": "Son Geceleri Kaçırmamak",
+          "description": "Ramazan'ın son tek gecelerinden birine denk gelen bu geceyi de ihya edin. Kadir Gecesi'nin hangi gece olduğu kesin bilinmez, bu yüzden her tek geceyi değerlendirin. Teheccüd ve nâfile namazları eksik etmeyin."
+        },
+        {
+          "type": "sadaka",
+          "title": "Son Sadakalar",
+          "description": "Ramazan bitmeden son sadakalarınızı verin. Fitre, zekât, genel sadaka... Ne verebiliyorsanız verin. 'Sadaka malı eksiltmez' hadisini hatırlayın. Son günlerde cömertliğinizi arttırın."
+        },
+        {
+          "type": "zikir",
+          "title": "Esmâ-ül Hüsnâ",
+          "description": "Bugün Allah'ın 99 güzel ismini (Esmâ-ül Hüsnâ) okuyun ve her ismin anlamını tefekkür edin. 'Allah'ın 99 ismi vardır. Kim bunları sayarsa (ezberler ve manasını anlarsa) cennete girer' hadisini hatırlayın."
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "title": "Kadir Gecesi Son İhtimaller ve Veda",
+      "suggestions": [
+        {
+          "type": "namaz",
+          "title": "29. Gece İbadeti",
+          "description": "29. gece de Kadir Gecesi olabilecek tek gecelerdendir. Bu geceyi de ihmal etmeyin. Son fırsatı değerlendirir gibi ibadet edin. Teravih, teheccüd ve nâfile namazlarla geceyi geçirin. Vitir namazını özenle kılın."
+        },
+        {
+          "type": "kuran",
+          "title": "29. Cüz - Mülk, Kalem ve Diğer Sûreler",
+          "description": "Bugün 29. cüzü okuyun. Mülk Sûresi kabir azabından korur. Kalem Sûresi'nde güzel ahlâk övülür. Bu cüzdeki kısa sûrelerin çoğunu ezberleyerek günlük hayatınızda okuyun."
+        },
+        {
+          "type": "dua",
+          "title": "Ramazan'a Veda Duası",
+          "description": "Ramazan'ın son günlerine yaklaşırken vedalaşın. 'Allah'ım, bu Ramazan'ı kabul eyle. Bizi gelecek Ramazan'a ulaştır. İbadetlerimizi kabul buyur. Günahlarımızı affet' diye içten dua edin."
+        },
+        {
+          "type": "ahlak",
+          "title": "Ramazan Kazanımlarını Kalıcı Kılmak",
+          "description": "Ramazan'da kazandığınız güzel alışkanlıkları liste hâline getirin: Düzenli namaz, Kur'ân okuma, sadaka verme, güzel ahlâk. Bunları Ramazan sonrasında da devam ettirmeye niyet edin."
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "title": "Son Gün: Bayrama Hazırlık ve Şükür",
+      "suggestions": [
+        {
+          "type": "kuran",
+          "title": "30. Cüz - Amme Cüzü ve Hatim Duası",
+          "description": "Bugün 30. cüzü okuyarak hatminizi tamamlayın. Amme cüzü kısa ama çok değerli sûreler içerir. Hatim duasını yaparak Allah'tan Kur'ân'ı hayatınıza yansıtmayı nasip etmesini isteyin. Hatim tamamlamak büyük bir nimettir."
+        },
+        {
+          "type": "sadaka",
+          "title": "Fitre ve Son Sadakalar",
+          "description": "Bayram namazından önce fitrenizi mutlaka verin. Hanefî mezhebinde fitre, buğday, arpa, kuru üzüm veya hurmanın bedelidir. Her aile ferdi için verilir. Fitre fakirlerin bayram sevincine ortaktır."
+        },
+        {
+          "type": "dua",
+          "title": "Ramazan'ın Kabulü ve Bayram Duası",
+          "description": "'Allahümme tekabbel minnâ inneke ente's-Semî'u'l-Alîm. Ve tüb aleynâ inneke ente't-Tevvâbü'r-Rahîm.' Ramazan'ın kabulü, günahların bağışlanması ve gelecek Ramazan'a kavuşma duası yapın. Ramazan'ı birlik, beraberlik ve huzur ile bitirin."
+        },
+        {
+          "type": "ahlak",
+          "title": "Bayram Hazırlığı ve Helâlleşme",
+          "description": "Bayramdan önce herkesle helâlleşin. Küs olduklarınızla barışın. Bayram namazına hazırlanın: gusül alın, güzel giyinin, bayram tekbirlerini öğrenin. 'Allâhu Ekber Allâhu Ekber, Lâ ilâhe illallahu vallâhu Ekber, Allâhu Ekber ve lillâhi'l-hamd' tekbirini bayrama kadar getirin."
+        }
+      ]
+    }
+  ]
+}

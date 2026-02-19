@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0f0f23"/>
+  <!-- Crescent moon -->
+  <circle cx="256" cy="230" r="120" fill="#c9a84c"/>
+  <circle cx="300" cy="210" r="100" fill="#0f0f23"/>
+  <!-- Star -->
+  <polygon points="220,160 228,182 252,182 233,196 240,218 220,204 200,218 207,196 188,182 212,182" fill="#c9a84c"/>
+  <!-- Text: Oruç -->
+  <text x="256" y="420" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="700" fill="#c9a84c">Oruç</text>
+</svg>

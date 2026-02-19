@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git ls-tree:*)",
+      "Bash(git config:*)",
+      "WebFetch(domain:aladhan.com)",
+      "WebFetch(domain:api.aladhan.com)",
+      "WebFetch(domain:vakit.vercel.app)",
+      "WebFetch(domain:github.com)",
+      "Bash(npx create-next-app:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)",
+      "Bash(timeout 15 npm run dev:*)",
+      "Bash(taskkill:*)",
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "Bash(node scripts/generate-prayer-times.mjs:*)",
+      "Bash(wc:*)",
+      "Bash(npm ls:*)",
+      "Bash(node scripts/generate-icons.mjs:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(node -e:*)",
+      "Bash(npx cap:*)",
+      "Bash(node scripts/generate-android-icons.mjs:*)",
+      "Bash(where:*)",
+      "Bash(\"/c/Program Files/Java/jdk-17/bin/keytool.exe\" -genkeypair -v -storetype PKCS12 -keystore /c/Users/Bugra/Documents/GitHub/orucarkadasim/android/app/orucarkadasim-release.keystore -alias orucarkadasim -keyalg RSA -keysize 2048 -validity 10000 -storepass orucarkadasim2026 -keypass orucarkadasim2026 -dname \"CN=Oruc Arkadasim, OU=Mobile, O=OruçArkadaşım, L=Istanbul, ST=Istanbul, C=TR\")",
+      "Bash(echo:*)",
+      "Bash(chmod:*)",
+      "Bash(./gradlew bundleRelease:*)",
+      "Bash(\"/c/Program Files/Android/Android Studio/jbr/bin/java\" -version)",
+      "Bash(JAVA_HOME=\"/c/Program Files/Android/Android Studio/jbr\" ./gradlew bundleRelease:*)",
+      "Bash(GITHUB_PAGES=true npm run build:*)"
+    ]
+  }
+}
